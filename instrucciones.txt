@@ -1,0 +1,7 @@
+1-En link.txt pegar link de google maps reviews
+2-En reviewRange.txt indicar el rango de reseñas a imprimir, siendo 0 la reseña mas reciente y 15 la ultima reseña que da un total de 16 reseñas.
+3-Abrir main.exe y finalmente esperar a que se cierrre la ventana del navegador y cerrar luego la ventana negra.
+
+Nota:
+Cerrar excel antes de usar el programa de lo contrario no va a poder agregar los datos.
+
